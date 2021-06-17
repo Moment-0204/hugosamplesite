@@ -1,24 +1,18 @@
 [[list]]
-    name = "go"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
-    text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
-    """
-[[list]]
-    name = "React"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
-    text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
-    """
-[[list]]
     name = "C/C++"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    icon="https://picsum.photos/50/50"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        Atcoderに出るときはC/C++で書いてます。C++とはいえ，クラスとかをガチガチに書くことはないので基本はCに毛が生えた程度です。Stringクラスとかcout<<とかcin>>が使えるのがめちゃ便利，みたいな。ちなみにCOBOLのlanguage ownerだったことも。
+    """
+[[list]]
+    name = "HTML/CSS/Javascript"
+    icon="https://picsum.photos/50/50"
+    text = """
+        Javascriptで簡単な静的ページを作るのが得意です。Projectsからも分かる通り，基本的にGithub Pagesで作品を公開しています。CSSは苦手なので，デザインが雑なのは許してください。
+    """
+[[list]]
+    name = "PIC/AVR"
+    icon="https://picsum.photos/50/50"
+    text = """
+        マイコンも一応触れます。プログラミングだけでなくハードも自由に設計できるのが良いですね。組んでいる最中はなかなかに地獄ですけど完成したときの喜びが半端ないです。文化祭に展示した作品のコードがGithubのリポジトリにあります。
     """

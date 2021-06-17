@@ -1,14 +1,14 @@
-title = "Hello, World!"
+title = "プログラミングが好き"
 
 text = """
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Voluptatibus quia, nulla! Maiores et perferendis eaque,
-exercitationem praesentium nihil.
+色々手出してます。
+最初はCから入ってそのあとArduinoやPICなどのマイコン系をやって，その後はhtml/css/jsなどをやりました。
+今はruby on railsのお勉強中。あとは，暇つぶし程度にディープウェブの探索も。
 """
 
 [[link]]
     icon = "fab fa-github"
-    url = "#"
+    url = "https://github.com/Moment-0204/"
 [[link]]
     icon = "fab fa-linkedin"
     url = "#"

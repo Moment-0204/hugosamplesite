@@ -1,16 +1,26 @@
 [[list]]
-    title = "lorem"
+    title = "暗号同好会"
     image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        暗号同好会での活動の上で便利なツールを作りました。
+	詳しくはリンク先を参照してください。
     """
+    url="https://moment-0204.github.io/Code-for-Code/"
+
 [[list]]
-    title = "lorem"
+    title = "24"
     image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        適当に見つけた4つの数字で24を作る昔懐かしのゲーム。
+	ランダムに出題してほしい！答え合わせしたい！ならこのサイトが便利かも。
     """
+    url="https://moment-0204.github.io/Code-for-Code/24.html"
+
+[[list]]
+    title="コンテストページ"
+    image = "https://picsum.photos/400/200"
+    text = """
+        Atcoder風のリアルタイムジャッジシステムを作りたくていろいろ試してみたコンテストページ。
+        Google FormとGASを組み合わせてます。全部無料なのが強みですね。もう上手く動かないと思います。
+    """
+    url="https://moment-0204.github.io/Code-for-Code/tac1st_test.html"

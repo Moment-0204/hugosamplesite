@@ -1,14 +1,14 @@
 baseURL = "https://moment-0204.github.io/hugosamplesite"
 languageCode = "ja-jp"
 theme = "SimpleIntro"
-title = "Theme Demo"
+title = "SAMPLE"
 publishDir = "docs"
 canonifurls = true
 
 [params]
     mainbg = "https://picsum.photos/1920/1080"
-    mainTitle = "Simple-intro"
-    mainText = "Just simple intro theme for hugo"
+    mainTitle = "サンプルページ"
+    mainText = "Hugoを用いてホームページを作る例"
 
 [menus]
     [[menu.main]]
@@ -16,10 +16,10 @@ canonifurls = true
         name = "About"
         url = "#about"
     [[menu.main]]
-        identifier = "skills"
-        name = "Skills"
-        url = "#skills"
-    [[menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "#projects"
+    [[menu.main]]
+        identifier = "skills"
+        name = "Skills"
+        url = "#skills"
