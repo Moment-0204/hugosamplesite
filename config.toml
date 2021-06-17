@@ -1,5 +1,5 @@
-baseURL = ""
-languageCode = "en-us"
+baseURL = "https://moment-0204.github.io/hugosamplesite"
+languageCode = "ja-jp"
 theme = "SimpleIntro"
 title = "Theme Demo"
 publishDir = "docs"
